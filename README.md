@@ -4,7 +4,7 @@
 
 - **HTML**: Lenguaje de marcado estándar para la web.
 - **HTML5**: Versión más reciente y robusta.
-- Oficialmente recomendado por W3C.
+- Oficialmente recomendado por W3C (Consorcio World Wide Web).
 
 
 ## Características Clave de HTML5
@@ -13,13 +13,6 @@
 2. **Multimedia**: Soporte nativo para audio y video.
 3. **Formularios Mejorados**: Nuevos tipos de entrada, validación y más.
 4. **APIs Avanzadas**: Para geolocalización, arrastrar y soltar, etc.
-
-
-## Compatibilidad
-
-- **Amplia Adopción**: Soportado en la mayoría de los navegadores modernos.
-- **Fácil de Implementar**: Código limpio y legible.
-- **Gracias a la Comunidad**: Contribuciones y mejoras continuas.
 
 
 ## ¿Por qué HTML5 Official Recommendation?
@@ -35,7 +28,6 @@
 - HTML5 Official Recommendation es un hito importante en la evolución de la web.
 - Ofrece características avanzadas y mejoras significativas en comparación con versiones anteriores.
 - Debería ser la elección predeterminada para desarrolladores web modernos.
-
 
 ## Logo
 
