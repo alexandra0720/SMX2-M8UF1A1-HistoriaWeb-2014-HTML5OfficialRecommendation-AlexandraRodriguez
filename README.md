@@ -9,7 +9,7 @@
 
 ## Características Clave de HTML5
 
-1. **Semántica Mejorada**: Nuevas etiquetas como `<header>`, `<footer>`, `<nav>`.
+1. **Semántica Mejorada**: Nuevas etiquetas como `<ejemplo>`.
 2. **Multimedia**: Soporte nativo para audio y video.
 3. **Formularios Mejorados**: Nuevos tipos de entrada, validación y más.
 4. **APIs Avanzadas**: Para geolocalización, arrastrar y soltar, etc.
@@ -38,3 +38,5 @@
 
 
 ## Logo
+
+<img src="https://github.com/alexandra0720/SMX2-M8UF1A1-HistoriaWeb-2014-HTML5OfficialRecommendation-AlexandraRodriguez/blob/main/logo.png" alt="Logo" width="300" height="200" />
