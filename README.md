@@ -15,7 +15,7 @@
 
 ## Características Principales
 
-1. **Semántica Mejorada**: Nuevas etiquetas como `<ejemplo>`.
+1. **Semántica Mejorada**: Nuevas etiquetas como _`<ejemplo>`_.
 
 2. **Multimedia**: Soporte nativo para audio y video.
 
