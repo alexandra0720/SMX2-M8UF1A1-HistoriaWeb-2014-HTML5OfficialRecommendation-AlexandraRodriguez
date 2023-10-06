@@ -8,6 +8,8 @@
 
 - Fue creado por Sir Tim Berners-Lee  y se lanzó por primera vez el 28 de Octubre 2014.
 
+<img src="https://github.com/alexandra0720/SMX2-M8UF1A1-HistoriaWeb-2014-HTML5OfficialRecommendation-AlexandraRodriguez/blob/main/image.png" alt="Logo" width="300" height="200" />
+
 
 ## Características Principales
 
