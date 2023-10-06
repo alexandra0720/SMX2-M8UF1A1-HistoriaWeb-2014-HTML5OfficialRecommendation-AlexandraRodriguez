@@ -6,21 +6,16 @@
 - **HTML5**: Versión más reciente y robusta.
 - Oficialmente recomendado por W3C (Consorcio World Wide Web).
 
+- Fue creado por Sir Tim Berners-Lee  y se lanzó por primera vez el 28 de Octubre 2014.
 
-## Características Clave de HTML5
+
+## Características Principales
 
 1. **Semántica Mejorada**: Nuevas etiquetas como `<ejemplo>`.
 2. **Multimedia**: Soporte nativo para audio y video.
 3. **Formularios Mejorados**: Nuevos tipos de entrada, validación y más.
 4. **APIs Avanzadas**: Para geolocalización, arrastrar y soltar, etc.
 
-
-## ¿Por qué HTML5 Official Recommendation?
-
-- **Estándar Definido**: Reglas y recomendaciones claras.
-- **Interoperabilidad**: Consistencia en la web.
-- **Seguridad**: Previene vulnerabilidades.
-- **Futuro-Prueba**: Tecnología avanzada y preparada para el futuro.
 
 
 ## Conclusión
